@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/16650419/draw-in-canvas-by-finger-android
+https://examples.javacodegeeks.com/android/core/graphics/canvas-graphics/android-canvas-example/
+https://fsix.github.io/mnist/Deskewing.html
+https://gist.github.com/nikhilkumarsingh/85501ee2c3d8c0cfa9d1a27be5781f06
